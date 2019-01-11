@@ -3,8 +3,8 @@
 /**
  * @module tsx template
  * @author lilliputten <lilliputten@yandex.ru>
- * @since 2018.09.29, 23:06
- * @version 2018.09.29, 23:06
+ * @since 2018.01.10, 23:06
+ * @version 2019.01.11, 06:46
  */
 
 const utils = require('./utils');
